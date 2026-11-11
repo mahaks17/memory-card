@@ -1,0 +1,13 @@
+.skeleton-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 275px;
+    background-image: url("../assets/images/card-2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    margin: auto;
+}
